@@ -6,7 +6,7 @@ function Biden(props) {
     <div className="col-sm-5 text-center bg-primary">
       <h1 className="mt-3">Biden</h1>
       <img className="head" src={bidenImage} alt="" />
-      <h1 className="mt-3">233</h1>
+      <h1 className="mt-3">269</h1>
     </div>
   );
 }

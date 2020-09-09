@@ -6,7 +6,7 @@ function Trump(props) {
     <div className="col-sm-5 text-center bg-danger">
       <h1 className="mt-3">Trump</h1>
       <img className="head" src={trumpImage} alt="" />
-      <h1 className="mt-3">119</h1>
+      <h1 className="mt-3">122</h1>
     </div>
   );
 }
