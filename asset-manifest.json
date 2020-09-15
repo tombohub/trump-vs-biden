@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.68a1e400.chunk.css",
-    "main.js": "/static/js/main.7d0034b2.chunk.js",
-    "main.js.map": "/static/js/main.7d0034b2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.108fb5c7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.108fb5c7.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.49b06643.chunk.js": "/static/js/2.49b06643.chunk.js",
-    "static/js/2.49b06643.chunk.js.map": "/static/js/2.49b06643.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.82e13e61d07bb06f3d4f787f0e63a532.js": "/precache-manifest.82e13e61d07bb06f3d4f787f0e63a532.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.68a1e400.chunk.css.map": "/static/css/main.68a1e400.chunk.css.map",
-    "static/js/2.49b06643.chunk.js.LICENSE.txt": "/static/js/2.49b06643.chunk.js.LICENSE.txt",
-    "static/media/biden.png": "/static/media/biden.f545efb1.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/trump.png": "/static/media/trump.64281307.png"
+    "main.css": "/TrumpVsBiden/static/css/main.68a1e400.chunk.css",
+    "main.js": "/TrumpVsBiden/static/js/main.ab5c6bc0.chunk.js",
+    "main.js.map": "/TrumpVsBiden/static/js/main.ab5c6bc0.chunk.js.map",
+    "runtime-main.js": "/TrumpVsBiden/static/js/runtime-main.1ecb48ee.js",
+    "runtime-main.js.map": "/TrumpVsBiden/static/js/runtime-main.1ecb48ee.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/TrumpVsBiden/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.49b06643.chunk.js": "/TrumpVsBiden/static/js/2.49b06643.chunk.js",
+    "static/js/2.49b06643.chunk.js.map": "/TrumpVsBiden/static/js/2.49b06643.chunk.js.map",
+    "index.html": "/TrumpVsBiden/index.html",
+    "precache-manifest.945e13f4e5a9177142bfba2847256ba9.js": "/TrumpVsBiden/precache-manifest.945e13f4e5a9177142bfba2847256ba9.js",
+    "service-worker.js": "/TrumpVsBiden/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/TrumpVsBiden/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.68a1e400.chunk.css.map": "/TrumpVsBiden/static/css/main.68a1e400.chunk.css.map",
+    "static/js/2.49b06643.chunk.js.LICENSE.txt": "/TrumpVsBiden/static/js/2.49b06643.chunk.js.LICENSE.txt",
+    "static/media/biden.png": "/TrumpVsBiden/static/media/biden.f545efb1.png",
+    "static/media/logo.svg": "/TrumpVsBiden/static/media/logo.5d5d9eef.svg",
+    "static/media/trump.png": "/TrumpVsBiden/static/media/trump.64281307.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.108fb5c7.js",
+    "static/js/runtime-main.1ecb48ee.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.49b06643.chunk.js",
     "static/css/main.68a1e400.chunk.css",
-    "static/js/main.7d0034b2.chunk.js"
+    "static/js/main.ab5c6bc0.chunk.js"
   ]
 }
