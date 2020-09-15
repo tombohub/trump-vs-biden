@@ -3,7 +3,6 @@ import logo from "./logo.svg";
 import "./App.css";
 import Biden from "./components/Biden";
 import Trump from "./components/Trump";
-import Vs from "./components/VS";
 
 function App(props) {
   return (

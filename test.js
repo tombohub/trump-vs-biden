@@ -19,7 +19,13 @@ class html{
   }
   
 }
-html = new html()
 
-html.showHtml()
-console.log(html.biden)
+
+function ko(){
+  function mo(){
+    console.log('mo')
+  }
+  mo()
+}
+
+ko()
